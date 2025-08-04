@@ -15,3 +15,4 @@ To get started, clone the repository to your local machine:
 ```bash
 git clone https://github.com/theyycallmesam/opencv-yellow-detection.git
 cd opencv-yellow-detection
+<img width="698" height="560" alt="image" src="https://github.com/user-attachments/assets/e36bc945-59b1-498e-b123-cbf9c818ad9a" />
