@@ -7,6 +7,8 @@ This project uses OpenCV to detect yellow objects in images or videos. It demons
 - Detect yellow-colored objects in images/videos
 - Works with both static images and live video streams (e.g., webcam)
 - Adjustable parameters for different lighting conditions and yellow shades
+- 
+- 
 
 ## Installation
 
@@ -16,3 +18,4 @@ To get started, clone the repository to your local machine:
 git clone https://github.com/theyycallmesam/opencv-yellow-detection.git
 cd opencv-yellow-detection
 <img width="698" height="560" alt="image" src="https://github.com/user-attachments/assets/e36bc945-59b1-498e-b123-cbf9c818ad9a" />
+<img width="1152" height="648" alt="Banana" src="https://github.com/user-attachments/assets/ef45588b-8caf-4b78-8337-8c527d8891f2" />
